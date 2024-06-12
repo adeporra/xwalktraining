@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/adeporra/xwalktraining/main"
+    url: "https://author-p62308-e1322112.adobeaemcloud.com/bin/franklin.delivery/adeporra/xwalktraining/main"
     type: "markup"
     suffix: ".html"
