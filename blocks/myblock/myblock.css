@@ -19,6 +19,13 @@ main .myblock-container {
   color: yellow;
 }
 
+.myblock h2 {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  color: red;
+}
+
 .myblock picture {
   position: absolute;
   z-index: -1;
