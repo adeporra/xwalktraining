@@ -231,7 +231,7 @@
         "component": "custom-asset-namespace:custom-asset",
         "name": "image",
         "label": "Image",
-        "configUrl": "https://main--xwalktraining--adeporra.hlx.page/tools/image.config.json",
+        "configUrl": "https://main--xwalktraining--adeporra.hlx.page/tools/sidekick/image.config.json",
         "valueType": "string"
       },
       {
