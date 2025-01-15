@@ -16,14 +16,14 @@ main .myblock-container {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: yellow;
+  color: rgb(17, 0, 255);
 }
 
 .myblock h2 {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  color: red;
+  color: rgb(0, 183, 255);
 }
 
 .myblock picture {
